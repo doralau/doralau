@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @doralau
+- 👀 I’m interested in the fields of smart hardware and AI.
+- 🌱 I’m currently learning about embedded systems, sensor technology, machine learning, and deep learning.
+- 💞️ I’m looking to collaborate on projects related to smart hardware and AI.
+- ⚡ Fun fact: I enjoy exploring and creating smart hardware projects in my spare time, and I love applying AI technologies to solve real-life problems.
